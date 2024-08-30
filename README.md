@@ -69,3 +69,9 @@ VagrantApp>vagrant ssh -c "hostname -I"
 
 ### 4. Ingresar en el navegador a la direccion ip correspondiente para ver la siguiente pantalla.
 ![](/imgs/WhatsApp%20Image%202024-08-28%20at%207.30.09%20PM.jpeg)
+
+Detener la aplicacion con 
+
+```
+vagrant halt
+```
